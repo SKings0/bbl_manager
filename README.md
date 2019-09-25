@@ -9,12 +9,10 @@ Username: SKings0
 Password: p4ssw0rd
 
 1. Scrape all the information of all players in the league and store to 
-   database. (Homepage > Spieler)
+   database. (Homepage -> Spieler)
 2. Scrape all the information of all managers in a division for a given
-   division url, e.g. [Sebas & Co.](https://basketball.de/app/buli_beko
-   /division/41-Sebas-Co)
-3. Scrape all the information of all managers in the game (Homepage
-   > Rangliste)
+   division url, e.g. https://basketball.de/app/buli_beko/division/41-Sebas-Co
+3. Scrape all the information of all managers in the game. (Homepage -> Rangliste)
 
 ### easycredit BBL
 1. Scrape all games in the main season. Date and time for some games may not be
