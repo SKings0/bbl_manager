@@ -16,7 +16,7 @@ PLAYER_LIST_URL = "/top_spieler?search=&page=1&letter=&sort={}&sortType={}" \
         "&country={}&limit={}"
 # USERNAME = "sebastianreyes94@hotmail.com"
 USERNAME = "SKings0"
-PASSWORD = "QE3sI6cj"
+PASSWORD = "p4ssw0rd"
 ALIASES = "file/aliases.json"
 
 COLUMNS = [
